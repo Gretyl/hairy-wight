@@ -152,7 +152,6 @@
 				CBEF42201819D971005E8801 /* ReactiveTestTests */,
 				CBEF41FA1819D971005E8801 /* Frameworks */,
 				CBEF41F91819D971005E8801 /* Products */,
-				CB0C3A9F1819DF16005B68E0 /* ReactiveCocoa.xcodeproj */,
 			);
 			sourceTree = "<group>";
 		};
@@ -168,6 +167,7 @@
 		CBEF41FA1819D971005E8801 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				CB0C3A9F1819DF16005B68E0 /* ReactiveCocoa.xcodeproj */,
 				CBEF41FB1819D971005E8801 /* Foundation.framework */,
 				CBEF41FD1819D971005E8801 /* CoreGraphics.framework */,
 				CBEF41FF1819D971005E8801 /* UIKit.framework */,
